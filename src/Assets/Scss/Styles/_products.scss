@@ -1,0 +1,114 @@
+$border-md: 20px;
+
+.grid-item  {
+  background-color: #8ac53d;
+  border-radius: $border-md; /* You can adjust the value to change the degree of rounding */
+  aspect-ratio: 9/5;
+
+  /* Shared styles for video sections */
+  .grid-item__content {
+    position: relative;
+    background-color: aqua;
+    display: block;
+    justify-content: center;
+    height: 100%;
+    border-radius: $border-md; /* You can adjust the value to change the degree of rounding */
+
+
+    img {
+      border-radius: $border-md; /* You can adjust the value to change the degree of rounding */
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+
+.upper-section {
+
+
+  }
+
+.text-upper-section{
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  height: auto;
+  color: white;
+  
+}  
+.button-grid-item{
+  height: 30px;
+  border-radius: 50%;
+  aspect-ratio: 1/1;
+  border-style: solid;
+  border-width:2.5px;
+  border-color:#009245;
+  background-color: white;
+  color: black;
+  font-family: "Comfortaa";
+  font-size: 1rem;
+  font-weight: bolder;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button-grid-item:hover{
+
+  height: 30px;
+  border-radius: 50%;
+  aspect-ratio: 1/1;
+  border-style: solid;
+  border-width:2.5px;
+  border-color:#009245;
+  background-color: #46ac42;
+  font-family: "Comfortaa";
+  font-size: 1rem;
+  font-weight: bolder;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+// #steunkouzen{
+//   background-image: url('../../Images/slip_voet.png');
+//   background-size: cover;
+//   background-position: center center; /* Adjust as needed */
+//   }
+
+// #dressbudy{
+//   background-image: url('../../Images/dressbuddy.png');
+//   background-size: cover;
+//   background-position: center center; /* Adjust as needed */
+
+//   }
+// #gloves{
+//   background-image: url('../../Images/steve_gloves.png');
+//   background-size: cover;
+//   background-position: center center; /* Adjust as needed */
+// }
+// #Doff_n_Donner{
+//   background-image: url('../../Images/doff_n_donner.png');
+//   background-size: cover;
+//   background-position: center center; /* Adjust as needed */
+
+// }
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  height: auto; 
+  gap: 2rem;
+
+  @media only screen and (min-width: 1200px) {
+    grid-template-columns: repeat(3, minmax(20rem, 1fr));
+    gap: 4rem;
+    }
+
+}
+
+
+  

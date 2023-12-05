@@ -1,0 +1,119 @@
+$header-mobile-breakpoint: 900px;
+
+.topbar-usp {
+    width: 100%;
+    background-color: $primary-color;
+    color: white;
+
+    ul {
+        padding: 10px 0;
+        display: flex;
+        justify-content: space-evenly;
+
+        li {
+            display: flex;
+            gap: 5px;
+            align-items: center;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        ul {
+            display: none;
+        }
+    }
+}
+.header {
+    z-index: 100;
+    position: sticky;
+    top: 0;
+
+    .header__navbar {
+        height: 6rem;
+        background-color: white;
+        box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.2);
+        display: flex;
+        padding: 0 50px;
+
+        .header__navbar__logo {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+
+            svg {
+                width: 100%;
+                height: 100%;
+            }
+        }
+
+        .header__navbar__menu {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            flex: 1;
+
+            ul {
+                display: flex;
+                gap: 20px;
+                list-style: none;
+
+                li {
+                    a {
+                        text-decoration: none;
+                        text-transform: uppercase;
+                        color: var(--textColor);
+                        font-size: 1rem;
+                        font-weight: 500;
+                        transition-duration: $transition-hover;
+
+                        &:hover, &.is--active {
+                            color: $primary-color;
+                        }
+
+                        &.is--active {
+                            border-bottom: 2px solid $primary-color;
+                        }
+                    }
+                }
+
+
+                @media screen and (max-width: $header-mobile-breakpoint) {
+                    padding: 40px 25px;
+                    top: 0;
+                    left: 0;
+                    position: fixed;
+                    background: white;
+                    width: 100vw;
+                    height: 100vh;
+                    align-items: flex-end;
+                    flex-direction: column;
+                    transform: translateX(100%);
+                    opacity: 0;
+                    transition-duration: $transition-hover-md;
+
+                    &.is--active {
+                        opacity: 1;
+                        transform: translateX(0);
+                    }
+                }
+            }
+
+            .header__navbar__menu-button {
+                cursor: pointer;
+
+                @media screen and (min-width: $header-mobile-breakpoint) {
+                    display: none;
+                }
+            }
+        }
+
+        @media screen and (max-width: $header-mobile-breakpoint) {
+            padding: 10px;
+        }
+    }
+}
+
+.page {
+    height: 200vh;
+}

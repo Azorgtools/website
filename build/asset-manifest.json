@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.3c2e8971.css",
+    "main.js": "/website/static/js/main.cf6a67f3.js",
+    "static/js/111.b187eac1.chunk.js": "/website/static/js/111.b187eac1.chunk.js",
+    "static/media/sliplift.png": "/website/static/media/sliplift.e2f68feef29ddbb7c936.png",
+    "static/media/dispenser.png": "/website/static/media/dispenser.e44e761e7740f474406d.png",
+    "static/media/slip_voet.png": "/website/static/media/slip_voet.5396f66090fad6d8fb92.png",
+    "static/media/a-zorg-banner-over-ons-1.jpg": "/website/static/media/a-zorg-banner-over-ons-1.0ed1e29be0ca3ba081c1.jpg",
+    "static/media/omron.png": "/website/static/media/omron.da7ab489358490eb77df.png",
+    "static/media/gloves.png": "/website/static/media/gloves.26dcadb7289ba79b5310.png",
+    "static/media/finger.png": "/website/static/media/finger.51299ebc0b612b4472ea.png",
+    "static/media/butler.png": "/website/static/media/butler.49170b8029d12a9df865.png",
+    "static/media/doffer.png": "/website/static/media/doffer.261cf8f168a96d5b9d52.png",
+    "static/media/sokaantrekhulp.jpg": "/website/static/media/sokaantrekhulp.a46a5018a8f292ad963f.jpg",
+    "static/media/helpinghand.png": "/website/static/media/helpinghand.869b9b5246d291f03821.png",
+    "static/media/comfortaa-latin-400-normal.woff": "/website/static/media/comfortaa-latin-400-normal.b7c3be30ed2b6fc15cb1.woff",
+    "static/media/comfortaa-latin-ext-400-normal.woff": "/website/static/media/comfortaa-latin-ext-400-normal.e95231212df3fc2170dc.woff",
+    "static/media/comfortaa-latin-400-normal.woff2": "/website/static/media/comfortaa-latin-400-normal.04d2b9164d14183439c9.woff2",
+    "static/media/comfortaa-cyrillic-400-normal.woff": "/website/static/media/comfortaa-cyrillic-400-normal.777f0c58d19b87dfeaf9.woff",
+    "static/media/comfortaa-latin-ext-400-normal.woff2": "/website/static/media/comfortaa-latin-ext-400-normal.d26f13e8cb35bb106581.woff2",
+    "static/media/comfortaa-cyrillic-ext-400-normal.woff": "/website/static/media/comfortaa-cyrillic-ext-400-normal.8bf144533fd19589f9ce.woff",
+    "static/media/comfortaa-cyrillic-400-normal.woff2": "/website/static/media/comfortaa-cyrillic-400-normal.411fd97469df651d89e0.woff2",
+    "static/media/comfortaa-greek-400-normal.woff": "/website/static/media/comfortaa-greek-400-normal.5bcd0a80bc1e4ec4d38e.woff",
+    "static/media/comfortaa-cyrillic-ext-400-normal.woff2": "/website/static/media/comfortaa-cyrillic-ext-400-normal.e99d76f2095c91141872.woff2",
+    "static/media/comfortaa-greek-400-normal.woff2": "/website/static/media/comfortaa-greek-400-normal.a353f1e1a3f6e1c004f4.woff2",
+    "static/media/comfortaa-vietnamese-400-normal.woff": "/website/static/media/comfortaa-vietnamese-400-normal.862a53274ae07bf5fab6.woff",
+    "static/media/comfortaa-vietnamese-400-normal.woff2": "/website/static/media/comfortaa-vietnamese-400-normal.aafda8802197bf5965b0.woff2",
+    "index.html": "/website/index.html",
+    "main.3c2e8971.css.map": "/website/static/css/main.3c2e8971.css.map",
+    "main.cf6a67f3.js.map": "/website/static/js/main.cf6a67f3.js.map",
+    "111.b187eac1.chunk.js.map": "/website/static/js/111.b187eac1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c2e8971.css",
+    "static/js/main.cf6a67f3.js"
+  ]
+}

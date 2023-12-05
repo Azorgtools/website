@@ -1,0 +1,25 @@
+.page-header {
+    height: 100px;
+    background-color: $primary-color;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $white;
+    font-size: 3rem;
+    text-transform: uppercase;
+
+    @media (max-width: 768px) {
+        height: 150px;
+        font-size: 2rem;
+    }
+}
+
+.page-container {
+    padding: 4%;
+    padding-top: 2rem;
+    height: auto;
+    display: block;
+    @media (max-width: 768px) {
+        padding: 1rem;
+    }
+}

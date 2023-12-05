@@ -1,0 +1,77 @@
+.footer {
+    background-color:   white ;
+    font-size: 0.8rem;
+    width: 100%;
+    color: #009245;
+    display: flex;
+    flex-direction: column;
+    
+
+    a:hover {
+        color: $grey-300;
+    }
+
+    .footer__content {
+        display: flex;
+        justify-content: space-evenly;
+        padding: 20px;
+        flex: 1;
+
+        h3 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        h4 {
+            font-size: 1rem;
+            font-weight: bold;
+        }
+
+        .footer__content__opening-hours {
+            li {
+                display: flex;
+                gap: 20px;
+                justify-content: space-between;
+
+                &.current-day {
+                    font-weight: bold;
+                    text-decoration: underline;
+                }
+            }
+        }
+
+        .footer__content__contact {
+            .footer__content__contact-item:not(:last-child) {
+                margin-bottom: 10px;
+            }
+        }
+
+        .footer__content__logo {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 10px;
+
+            .socials {
+                display: flex;
+                gap: 10px;
+            }
+        }
+
+        @media screen and (max-width: 768px) {
+            flex-direction: column;
+            gap: 20px;
+        }
+
+    }
+
+    .footer__copyright {
+        padding: 0.9rem 0;
+        background-color: $grey-800;
+        font-size: .6rem;
+        text-align: center;
+        color: $grey-300;
+    }
+}

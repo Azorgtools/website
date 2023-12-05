@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import "@fontsource/comfortaa"; // Defaults to weight 400
+// == Vendor
+@import 'swiper/scss';
+@import 'swiper/scss/navigation';
+@import 'swiper/scss/pagination';
+
+// == General
+@import 'Styles/variables';
+@import 'Styles/normalize';
+@import 'Styles/page';
+@import "Styles/header";
+@import "Styles/footer";
+@import "Styles/contact";
+@import "Styles/dropdown";
+
+
+// == Pages
+@import "Styles/menu";
+@import "Styles/home";
+@import "Styles/openinghours";
+@import "Styles/products";
