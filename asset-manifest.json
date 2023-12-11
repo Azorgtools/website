@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.c97def9b.css",
+    "main.css": "/website/static/css/main.0154dbee.css",
     "main.js": "/website/static/js/main.66045469.js",
     "static/js/111.b187eac1.chunk.js": "/website/static/js/111.b187eac1.chunk.js",
     "static/media/sliplift.png": "/website/static/media/sliplift.e2f68feef29ddbb7c936.png",
@@ -27,12 +27,12 @@
     "static/media/comfortaa-vietnamese-400-normal.woff": "/website/static/media/comfortaa-vietnamese-400-normal.862a53274ae07bf5fab6.woff",
     "static/media/comfortaa-vietnamese-400-normal.woff2": "/website/static/media/comfortaa-vietnamese-400-normal.aafda8802197bf5965b0.woff2",
     "index.html": "/website/index.html",
-    "main.c97def9b.css.map": "/website/static/css/main.c97def9b.css.map",
+    "main.0154dbee.css.map": "/website/static/css/main.0154dbee.css.map",
     "main.66045469.js.map": "/website/static/js/main.66045469.js.map",
     "111.b187eac1.chunk.js.map": "/website/static/js/111.b187eac1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c97def9b.css",
+    "static/css/main.0154dbee.css",
     "static/js/main.66045469.js"
   ]
 }
