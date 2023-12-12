@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.a57aada2.css",
-    "main.js": "/website/static/js/main.66045469.js",
+    "main.css": "/website/static/css/main.40955774.css",
+    "main.js": "/website/static/js/main.d89e29c4.js",
     "static/js/111.b187eac1.chunk.js": "/website/static/js/111.b187eac1.chunk.js",
     "static/media/sliplift.png": "/website/static/media/sliplift.e2f68feef29ddbb7c936.png",
     "static/media/dispenser.png": "/website/static/media/dispenser.e44e761e7740f474406d.png",
@@ -27,12 +27,12 @@
     "static/media/comfortaa-vietnamese-400-normal.woff": "/website/static/media/comfortaa-vietnamese-400-normal.862a53274ae07bf5fab6.woff",
     "static/media/comfortaa-vietnamese-400-normal.woff2": "/website/static/media/comfortaa-vietnamese-400-normal.aafda8802197bf5965b0.woff2",
     "index.html": "/website/index.html",
-    "main.a57aada2.css.map": "/website/static/css/main.a57aada2.css.map",
-    "main.66045469.js.map": "/website/static/js/main.66045469.js.map",
+    "main.40955774.css.map": "/website/static/css/main.40955774.css.map",
+    "main.d89e29c4.js.map": "/website/static/js/main.d89e29c4.js.map",
     "111.b187eac1.chunk.js.map": "/website/static/js/111.b187eac1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a57aada2.css",
-    "static/js/main.66045469.js"
+    "static/css/main.40955774.css",
+    "static/js/main.d89e29c4.js"
   ]
 }
