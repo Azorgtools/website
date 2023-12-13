@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.82cc06f3.css",
-    "main.js": "/website/static/js/main.12ec751e.js",
+    "main.css": "/website/static/css/main.82ff920f.css",
+    "main.js": "/website/static/js/main.b3d38bbc.js",
     "static/js/111.b187eac1.chunk.js": "/website/static/js/111.b187eac1.chunk.js",
     "static/media/sliplift.png": "/website/static/media/sliplift.e2f68feef29ddbb7c936.png",
     "static/media/dispenser.png": "/website/static/media/dispenser.e44e761e7740f474406d.png",
     "static/media/kofferbak.png": "/website/static/media/kofferbak.d100f1dcd9069208768a.png",
+    "static/media/a-zorg-banner-over-ons-1.jpg": "/website/static/media/a-zorg-banner-over-ons-1.0ed1e29be0ca3ba081c1.jpg",
     "static/media/omron.png": "/website/static/media/omron.da7ab489358490eb77df.png",
     "static/media/gloves.png": "/website/static/media/gloves.26dcadb7289ba79b5310.png",
     "static/media/finger.png": "/website/static/media/finger.51299ebc0b612b4472ea.png",
@@ -27,12 +28,12 @@
     "static/media/comfortaa-vietnamese-400-normal.woff": "/website/static/media/comfortaa-vietnamese-400-normal.862a53274ae07bf5fab6.woff",
     "static/media/comfortaa-vietnamese-400-normal.woff2": "/website/static/media/comfortaa-vietnamese-400-normal.aafda8802197bf5965b0.woff2",
     "index.html": "/website/index.html",
-    "main.82cc06f3.css.map": "/website/static/css/main.82cc06f3.css.map",
-    "main.12ec751e.js.map": "/website/static/js/main.12ec751e.js.map",
+    "main.82ff920f.css.map": "/website/static/css/main.82ff920f.css.map",
+    "main.b3d38bbc.js.map": "/website/static/js/main.b3d38bbc.js.map",
     "111.b187eac1.chunk.js.map": "/website/static/js/111.b187eac1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82cc06f3.css",
-    "static/js/main.12ec751e.js"
+    "static/css/main.82ff920f.css",
+    "static/js/main.b3d38bbc.js"
   ]
 }
