@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website/static/css/main.16e04d1e.css",
-    "main.js": "/website/static/js/main.868d59e9.js",
+    "main.js": "/website/static/js/main.d9f3f209.js",
     "static/js/111.021cb8b8.chunk.js": "/website/static/js/111.021cb8b8.chunk.js",
     "static/media/sliplift.png": "/website/static/media/sliplift.e2f68feef29ddbb7c936.png",
     "static/media/dispenser.png": "/website/static/media/dispenser.e44e761e7740f474406d.png",
@@ -10,11 +10,11 @@
     "static/media/omron.png": "/website/static/media/omron.da7ab489358490eb77df.png",
     "static/media/gloves.png": "/website/static/media/gloves.26dcadb7289ba79b5310.png",
     "static/media/finger.png": "/website/static/media/finger.51299ebc0b612b4472ea.png",
+    "static/media/knijphaak.jpg": "/website/static/media/knijphaak.a202aa44ca779d8fdc3f.jpg",
     "static/media/butler.png": "/website/static/media/butler.49170b8029d12a9df865.png",
     "static/media/doffer.png": "/website/static/media/doffer.261cf8f168a96d5b9d52.png",
     "static/media/background.png": "/website/static/media/background.b0be6fd7ae269dd90dc2.png",
     "static/media/sokaantrekhulp.jpg": "/website/static/media/sokaantrekhulp.a46a5018a8f292ad963f.jpg",
-    "static/media/helpinghand.png": "/website/static/media/helpinghand.869b9b5246d291f03821.png",
     "static/media/comfortaa-latin-400-normal.woff": "/website/static/media/comfortaa-latin-400-normal.b7c3be30ed2b6fc15cb1.woff",
     "static/media/comfortaa-latin-ext-400-normal.woff": "/website/static/media/comfortaa-latin-ext-400-normal.e95231212df3fc2170dc.woff",
     "static/media/comfortaa-latin-400-normal.woff2": "/website/static/media/comfortaa-latin-400-normal.04d2b9164d14183439c9.woff2",
@@ -29,11 +29,11 @@
     "static/media/comfortaa-vietnamese-400-normal.woff2": "/website/static/media/comfortaa-vietnamese-400-normal.aafda8802197bf5965b0.woff2",
     "index.html": "/website/index.html",
     "main.16e04d1e.css.map": "/website/static/css/main.16e04d1e.css.map",
-    "main.868d59e9.js.map": "/website/static/js/main.868d59e9.js.map",
+    "main.d9f3f209.js.map": "/website/static/js/main.d9f3f209.js.map",
     "111.021cb8b8.chunk.js.map": "/website/static/js/111.021cb8b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16e04d1e.css",
-    "static/js/main.868d59e9.js"
+    "static/js/main.d9f3f209.js"
   ]
 }
